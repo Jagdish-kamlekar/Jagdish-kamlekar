@@ -15,7 +15,8 @@
 Full Stack Developer skilled in **Core Java, J2EE, Servlets, JSP**, and **modern web technologies** including  
 **HTML, CSS, JavaScript, Angular, and React.js**.  
 
-## 🛠️ Hands-on: **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like  
+## 🛠️ Hands-on: 
+**Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like  
 **Spring Boot & Hibernate**. Passionate about building **responsive, user-friendly applications** and eager to work on innovative projects while continuously upskilling.
 
 
