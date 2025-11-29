@@ -57,14 +57,10 @@ A full-stack application demonstrating Create, Read, Update, and Delete operatio
 * **Features:** RESTful API integration, Dynamic search filtering, Client-side validation.
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagdish-kamlekar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-kamlekar&layout=compact&theme=tokyonight)
 
----
 
 ## 🌐 Connect With Me
-📧 Email: **mailto:jagdishkamlekar274@gmail.com**  
+📧 Email: **jagdishkamlekar274@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/jagdishkamlekar/**  
 🐙 GitHub: **https://github.com/Jagdish-kamlekar**
 
