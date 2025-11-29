@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Jagdish-kamlekar/Jagdish-kamlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jagdish Kamlekar
 
-Here are some ideas to get you started:
+🎓 IT Student | 💻 Full Stack Developer  
+🚀 I love building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Tech Stack
+- Java | Spring Boot | Hibernate | JDBC
+- React | HTML | CSS | JavaScript
+- MySQL | Git | GitHub
+
+## 📫 Connect with me
+- Instagram: https://instagram.com/jagdish_kamlekar
+- LinkedIn: https://linkedin.com/in/your-profile
+
+## 🔥 My Projects
+- Employee Management System – Spring Boot + React
+- Product Management System – JDBC Console App
+- Travel Agency Website – HTML/CSS/JS
