@@ -6,8 +6,8 @@
 
 ## 🌟 Tech Stack
 - Java | Spring Boot | Hibernate | JDBC
-- React | HTML | CSS | JavaScript
-- MySQL | Git | GitHub
+- React | HTML | CSS | JavaScript | Angular
+- MySQL 
 
 ---
 
@@ -15,7 +15,7 @@
 Full Stack Developer skilled in **Core Java, J2EE, Servlets, JSP**, and **modern web technologies** including  
 **HTML, CSS, JavaScript, Angular, and React.js**.  
 
-Experienced with **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like  
+## 🛠️ Hands-on: **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like  
 **Spring Boot & Hibernate**. Passionate about building **responsive, user-friendly applications** and eager to work on innovative projects while continuously upskilling.
 
 
@@ -34,9 +34,10 @@ Experienced with **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like
 ---
 
 ## 🧑‍💻 Work Experience
-**Web Developer Intern — VGroomU Pvt. Ltd.** *(6 Weeks)*  
-- Worked on real-world web development tasks and contributed to multiple projects.
-- Gained hands-on experience in frontend technologies and collaborative development.
+
+**Web Developer Intern** | *VGroomU.pvt.ltd*
+* Contributed to real-world web development tasks.
+* Gained hands-on experience in project workflows and delivery.
 
 ---
 
@@ -50,6 +51,10 @@ Experienced with **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like
 - Created a multi-page responsive travel website with **Swiper sliders, Scroll animations**
 - Integrated modern UI elements and media-responsive layouts
 
+###  Spring Boot & React CRUD Application**
+A full-stack application demonstrating Create, Read, Update, and Delete operations.
+* **Tech:** Spring Boot, Spring Data JPA, MySQL, React.js, Axios.
+* **Features:** RESTful API integration, Dynamic search filtering, Client-side validation.
 ---
 
 ## 📊 GitHub Stats
@@ -59,7 +64,7 @@ Experienced with **Oracle SQL, MySQL, MongoDB, PostgreSQL**, and frameworks like
 ---
 
 ## 🌐 Connect With Me
-📧 Email: **jagdishkamlekar274@gmail.com**  
+📧 Email: **mailto:jagdishkamlekar274@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/jagdishkamlekar/**  
 🐙 GitHub: **https://github.com/Jagdish-kamlekar**
 
