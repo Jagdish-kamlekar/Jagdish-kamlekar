@@ -62,9 +62,7 @@ cart operations, order processing, admin approval, and stock handling.
 - MySQL Database
 - HTML, CSS, JavaScript
 - Session Management (HttpSession)
----
 ## 👤 User Roles
-
 ### 🔐 Admin
 - Admin login
 - Dashboard with statistics
