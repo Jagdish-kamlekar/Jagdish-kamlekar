@@ -44,6 +44,46 @@ Full Stack Developer skilled in **Core Java, J2EE, Servlets, JSP**, and **modern
 
 ## 📌 Major Projects
 
+### 🛒 Online Product Management System (Java Servlet & JSP)
+A full-stack **Online Product Management System** developed using **Java EE (Servlet, JSP, JDBC)**  
+with **Role-Based Access Control (Admin & Customer)** and **MySQL database**.
+
+This project demonstrates a real-world e-commerce workflow including product management, 
+cart operations, order processing, admin approval, and stock handling.
+
+---
+
+## 🚀 Technologies Used
+
+- Java (JDK 21)
+- Servlet & JSP (MVC Architecture)
+- JDBC
+- Apache Tomcat 11
+- MySQL Database
+- HTML, CSS, JavaScript
+- Session Management (HttpSession)
+---
+## 👤 User Roles
+
+### 🔐 Admin
+- Admin login
+- Dashboard with statistics
+- Add / Update / Delete products
+- View all customers
+- Remove customer (with transaction safety)
+- View all orders
+- Approve / Cancel orders
+- Auto stock update on order approval
+
+### 🛍 Customer
+- Customer registration & login
+- View products
+- Add products to cart
+- Update cart quantity
+- Place order
+- View order history
+- Cancel order (only if status = PLACED)
+
 ### 🔐 Login & Registration System | Servlet, JSP, MVC
 - Implemented user registration and login using **JSP, Servlets, JavaBeans, MVC**
 - Managed sessions, validations, and database operations using **DAO pattern**
