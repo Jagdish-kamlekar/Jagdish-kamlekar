@@ -51,8 +51,6 @@ with **Role-Based Access Control (Admin & Customer)** and **MySQL database**.
 This project demonstrates a real-world e-commerce workflow including product management, 
 cart operations, order processing, admin approval, and stock handling.
 
----
-
 ## 🚀 Technologies Used
 
 - Java (JDK 21)
@@ -82,13 +80,19 @@ cart operations, order processing, admin approval, and stock handling.
 - View order history
 - Cancel order (only if status = PLACED)
 
+ ---
+
 ### 🔐 Login & Registration System | Servlet, JSP, MVC
 - Implemented user registration and login using **JSP, Servlets, JavaBeans, MVC**
 - Managed sessions, validations, and database operations using **DAO pattern**
 
+---
+
 ### ✈ Travel Agency Website (MyTravel) | HTML, CSS, JS
 - Created a multi-page responsive travel website with **Swiper sliders, Scroll animations**
 - Integrated modern UI elements and media-responsive layouts
+
+---
 
 ###  Spring Boot & React CRUD Application**
 A full-stack application demonstrating Create, Read, Update, and Delete operations.
