@@ -11,7 +11,7 @@ and solving real-world problems using **Java & Full Stack development**.
 ## 🔍 About Me
 
 - 💻 Strong foundation in **Core Java, J2EE (Servlets & JSP)**
-- 🌐 Experience with **HTML, CSS, JavaScript, Angular & React**
+- 🌐 Frontend with **HTML, CSS, JavaScript, Angular & React**
 - ⚙️ Backend development using **Spring Boot, Hibernate, JDBC**
 - 🗄️ Worked with **MySQL, Oracle SQL, MongoDB, PostgreSQL**
 - 🚀 Passionate about building **responsive, user-friendly applications**
